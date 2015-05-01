@@ -14,7 +14,7 @@ h1 span {
 }
 ul {
   list-style-type: none;
-  transform: rotate(-45deg);
+  transform: rotate(-90deg);
 }
 ul li {
   margin: 10px 0px;
